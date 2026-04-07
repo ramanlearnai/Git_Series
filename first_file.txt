@@ -3,3 +3,5 @@ This is a new file.
 This is our code
 
 I love GIT
+
+I love merging
